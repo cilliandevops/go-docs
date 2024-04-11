@@ -6,7 +6,7 @@ export const zhNavbar = navbar([
 
   "/zh/",
   // "/zh/demo/",
-  
+  "/zh/basic/",
   // {
     // text: "Golang基础",
     // icon: "lightbulb",

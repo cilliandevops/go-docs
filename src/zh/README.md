@@ -7,7 +7,7 @@ bgImage: https://theme-hope-assets.vuejs.press/bg/4-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
-heroText: Cillian-Golang
+heroText: Go-Cillian
 tagline: 你可以在这里快速入门Golang
 actions: 
   - text: 使用指南
@@ -270,5 +270,6 @@ highlights:
         link: https://theme-hope.vuejs.press/zh/guide/advanced/pwa.html
 
 copyright: false
-footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">Hope</a> 主题 | MIT 协议, 版权所有 © 2024-present 希里安
+# footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">Hope</a> 主题 | MIT 协议, 版权所有 © 2024-present 希里安
+footer: <a href="http://www.github.com/cilliandevops">MIT 协议</a> | © 2024 <a href="http://www.github.com/cilliandevops">希里安</a>
 ---
