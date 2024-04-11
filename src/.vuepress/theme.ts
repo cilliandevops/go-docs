@@ -3,11 +3,12 @@ import { enNavbar, zhNavbar } from "./navbar/index.js";
 import { enSidebar, zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
+  
   hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
 
   author: {
-    name: "Mr.Hope",
-    url: "https://mister-hope.com",
+    name: "Cillian",
+    url: "https://www.cillian.website",
   },
 
   iconAssets: "fontawesome-with-brands",
@@ -45,7 +46,7 @@ export default hopeTheme({
       // sidebar
       sidebar: zhSidebar,
 
-      footer: "默认页脚",
+      footer: "生如夏花之绚烂，死如秋叶之静美",
 
       displayFooter: true,
 
@@ -68,10 +69,10 @@ export default hopeTheme({
     // You MUST generate and use your own comment service in production.
     comment: {
       provider: "Giscus",
-      repo: "vuepress-theme-hope/giscus-discussions",
-      repoId: "R_kgDOG_Pt2A",
+      repo: "cilliandevops/go-docs",
+      repoId: "R_kgDOLsRc4w",
       category: "Announcements",
-      categoryId: "DIC_kwDOG_Pt2M4COD69",
+      categoryId: "DIC_kwDOLsRc484Cenbt",
     },
 
     components: {

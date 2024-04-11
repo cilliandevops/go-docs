@@ -7,12 +7,12 @@ export default defineUserConfig({
   locales: {
     "/": {
       lang: "en-US",
-      title: "Golang Learning",
+      title: "Golang",
       description: "A docs demo for vuepress-theme-hope",
     },
     "/zh/": {
       lang: "zh-CN",
-      title: "Golang 学习",
+      title: "Golang",
       description: "vuepress-theme-hope 的文档演示",
       
 

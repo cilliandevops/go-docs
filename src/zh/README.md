@@ -1,14 +1,14 @@
 ---
 home: true
 icon: home
-title: Golang导航
+title: 主页
 heroImage: https://go.dev/images/gophers/ladder.svg
 bgImage: https://theme-hope-assets.vuejs.press/bg/4-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
-heroText: Go语言学习
-tagline: 你可以在这里快速入门Golang。
+heroText: Cillian-Golang
+tagline: 你可以在这里快速入门Golang
 actions: 
   - text: 使用指南
     icon: lightbulb
