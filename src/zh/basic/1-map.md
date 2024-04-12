@@ -1,6 +1,6 @@
 ---
-title: 学习路线
-icon: object-group
+title: 1.学习路线
+# icon: object-group
 order: 1
 category:
   - 路线

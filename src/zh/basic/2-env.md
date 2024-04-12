@@ -1,6 +1,6 @@
 ---
-title: 基础环境准备
-icon: object-group
+title: 2.基础环境准备
+# icon: object-group
 order: 2
 category:
   - 数据

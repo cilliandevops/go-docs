@@ -1,7 +1,7 @@
 ---
-title: 数据类型
-icon: object-group
-order: 5
+title: 4.数据类型
+# icon: object-group
+order: 4
 category:
   - 数据
 tag:
