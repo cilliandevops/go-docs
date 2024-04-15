@@ -8,7 +8,7 @@ bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
 heroText: Go-Cillian
-tagline: 你可以在这里快速入门Golang
+tagline: 你可以在这里跟随希里安快速入门Golang
 actions: 
   - text: 使用指南
     icon: lightbulb
@@ -31,125 +31,125 @@ highlights:
     description: 集合AI+文档，快速入门Golang编程
     # image: /assets/image/markdown.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/10-light.svg
-    bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
+    bgImageDark: https://theme-hope-assets.vuejs.press/bg/10-dark.svg
     bgImageStyle:
       background-repeat: repeat
       background-size: initial
     highlights:
-      - title: 链接检查
-        icon: clipboard-check
-        details: 检查 Markdown 链接
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/others.html#link-check
+      - title: 1.入门
+        # icon: clipboard-check
+        details: 进入GO世界，运行第一个Go程序
+        link: 
 
-      - title: 提示容器支持
-        icon: box-archive
-        details: 用样式装饰 Markdown 内容
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/hint.html
+      - title: 2.程序结构
+        # icon: box-archive
+        details: 名称、声明、变量、赋值...
+        link: 
 
-      - title: GFM 警告
-        icon: bell
-        details: GFM 风格的警告容器
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/alert.html
+      - title: 3.基本数据
+        # icon: bell
+        details: 向下匹配硬件特性，向上满足程序员所需
+        link: 
 
-      - title: 选项卡
-        icon: table-columns
-        details: 使用选项卡对相似内容进行分组
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/tabs.html
+      - title: 4.复合数据类型
+        # icon: table-columns
+        details: 复合数据类型是由基本数据类型以各种方式组合而构成的，就像分子由原子构成一样。
+        link: 
 
-      - title: 代码组
-        icon: code
-        details: 使用选项卡对相似代码进行分组
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/code-tabs.html
+      - title: 5.函数
+        # icon: code
+        details: 函数包含连续的执行语句，可以在代码中通过调用函数来执行它们。函数能够将一个复杂的工作切分成多个更小的模块。
+        link: 
 
-      - title: 自定义对齐支持
-        icon: align-center
-        details: 让你在 Markdown 中对段落进行对齐
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/align.html
+      - title: 6.方法
+        # icon: align-center
+        details: 对象就是简单的一个值或者变量，并且拥有其方法，而方法是某种特定类型的函数。面向对象编程就是使用方法来描述每个数据结构的属性和操作，于是，使用者不需要了解对象本身的实现。
+        link:
 
-      - title: 自定义属性支持
-        icon: code
-        details: 让你为 Markdown 元素添加属性
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/attrs.html
+      - title: 7.接口
+        # icon: code
+        details: 对于一个具体的类型，无须声明它实现了哪些接口，只要提供接口所必需的方法即可。这种设计让你无须改变已有类型的实现，就可以为这些类型创建新的接口，对于那些不能修改包的类型，这一点特别有用。
+        link:
 
-      - title: 上下角标支持
-        icon: superscript
-        details: 你的 Markdown 现在将支持上下角标
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/sup-sub.html
+      - title: 8.groutine和channel
+        # icon: superscript
+        details: goroutine 是Go语言中实现并发的基本单位，它是由Go运行时（runtime）管理的轻量级线程。创建 goroutine 非常简单，只需要在函数调用前加上关键字 go。channel 是Go语言中的一个关键类型，用于在 goroutine 之间进行安全的通信。你可以把 channel 理解为一个用于传输数据的管道，一个 goroutine 可以向管道中发送数据，而另一个 goroutine 可以从管道中接收数据。
+        link: 
 
-      - title: 脚注
-        icon: quote-left
-        details: 你的 Markdown 现在将支持脚注
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/footnote.html
+      - title: 9.并发
+        # icon: quote-left
+        details: Go语言中，并发是指程序同时处理多个任务的能力。它是通过 goroutines 和 channels 等机制来实现的，这些机制让并发编程更加直观和易于管理。
+        link: 
 
-      - title: 标记支持
-        icon: highlighter
-        details: 让你在 Markdown 中对词句进行标记
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/mark.html
+      - title: 10.包和工具
+        # icon: highlighter
+        details: 各种插件工具助理实现应用目的
+        link: 
 
-      - title: 任务列表
-        icon: square-check
-        details: 在 Markdown 中使用任务列表
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/tasklist.html
+      - title: 11.测试
+        # icon: square-check
+        details: 标准测试
+        link:
 
-      - title: 图片语法
-        icon: image
-        details: 使用改进的语法指定图片大小与颜色模式
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/image.html
+      - title: 12.反射
+        # icon: image
+        details: 
+        link: 
 
-      - title: 组件支持
-        icon: puzzle-piece
-        details: 在 Markdown 中轻松插入组件
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/component.html
+      - title: 13.低级编程
+        # icon: puzzle-piece
+        details: 
+        link: 
 
-      - title: 图表支持
-        icon: chart-simple
-        details: 在 Markdown 中展示图表
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/chartjs.html
+      # - title: 图表支持
+      #   icon: chart-simple
+      #   details: 在 Markdown 中展示图表
+      #   link: https://theme-hope.vuejs.press/zh/guide/markdown/chartjs.html
 
-      - title: 流程图支持
-        icon: route
-        details: 可以在 Markdown 中直接写出流程图
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/flowchart.html
+      # - title: 流程图支持
+      #   icon: route
+      #   details: 可以在 Markdown 中直接写出流程图
+      #   link: https://theme-hope.vuejs.press/zh/guide/markdown/flowchart.html
 
-      - title: Mermaid 支持
-        icon: chart-pie
-        details: 可以在 Markdown 中添加 Mermaid 图例
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/mermaid.html
+      # - title: Mermaid 支持
+      #   icon: chart-pie
+      #   details: 可以在 Markdown 中添加 Mermaid 图例
+      #   link: https://theme-hope.vuejs.press/zh/guide/markdown/mermaid.html
 
-      - title: Tex 支持
-        icon: square-root-variable
-        details: Markdown 现在也可以支持 Tex 语法以显示公式
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/tex.html
+      # - title: Tex 支持
+      #   icon: square-root-variable
+      #   details: Markdown 现在也可以支持 Tex 语法以显示公式
+      #   link: https://theme-hope.vuejs.press/zh/guide/markdown/tex.html
 
-      - title: 导入文件支持
-        icon: fab fa-markdown
-        details: 将你的文档分段，并在 Markdown 中导入
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/include.html
+      # - title: 导入文件支持
+      #   icon: fab fa-markdown
+      #   details: 将你的文档分段，并在 Markdown 中导入
+      #   link: https://theme-hope.vuejs.press/zh/guide/markdown/include.html
 
-      - title: 交互演示支持
-        icon: code
-        details: 你可以在 Markdown 中添加交互演示
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/playground.html
+      # - title: 交互演示支持
+      #   icon: code
+      #   details: 你可以在 Markdown 中添加交互演示
+      #   link: https://theme-hope.vuejs.press/zh/guide/markdown/playground.html
 
-      - title: Vue 交互演示支持
-        icon: fab fa-vuejs
-        details: 在交互演示中展示 Vue 组件
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/vue-playground.html
+      # - title: Vue 交互演示支持
+      #   icon: fab fa-vuejs
+      #   details: 在交互演示中展示 Vue 组件
+      #   link: https://theme-hope.vuejs.press/zh/guide/markdown/vue-playground.html
 
-      - title: Sandpack 交互演示支持
-        icon: code
-        details: Sandpack 驱动的实时的编码环境
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/sandpack.html
+      # - title: Sandpack 交互演示支持
+      #   icon: code
+      #   details: Sandpack 驱动的实时的编码环境
+      #   link: https://theme-hope.vuejs.press/zh/guide/markdown/sandpack.html
 
-      - title: 代码案例支持
-        icon: laptop-code
-        details: 你可以很方便的插入代码案例
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/demo.html
+      # - title: 代码案例支持
+      #   icon: laptop-code
+      #   details: 你可以很方便的插入代码案例
+      #   link: https://theme-hope.vuejs.press/zh/guide/markdown/demo.html
 
-      - title: 幻灯片支持
-        icon: person-chalkboard
-        details: 通过 Reveal.js 在 Markdown 中插入幻灯片
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/revealjs.html
+      # - title: 幻灯片支持
+      #   icon: person-chalkboard
+      #   details: 通过 Reveal.js 在 Markdown 中插入幻灯片
+      #   link: https://theme-hope.vuejs.press/zh/guide/markdown/revealjs.html
 
   # - header: 布局
   #   description: 一个带有完整无障碍支持的响应式布局。
@@ -249,25 +249,25 @@ highlights:
     bgImage: https://theme-hope-assets.vuejs.press/bg/4-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/4-dark.svg
     highlights:
-      - title: SEO 增强
+      - title: 1. 框架
         icon: dumbbell
         details: 将最终生成的网页针对搜索引擎进行优化。
-        link: https://theme-hope.vuejs.press/zh/guide/advanced/seo.html
+        link: 
 
-      - title: Sitemap
+      - title: 2. 机器学习
         icon: sitemap
         details: 自动为你的网站生成 Sitemap
-        link: https://theme-hope.vuejs.press/zh/guide/advanced/sitemap.html
+        link: 
 
-      - title: Feed 支持
+      - title: 3. 实战开发
         icon: rss
         details: 生成你的 Feed，并通知你的用户订阅它
-        link: https://theme-hope.vuejs.press/zh/guide/advanced/feed.html
+        link: 
 
-      - title: PWA 支持
-        icon: mobile-screen
-        details: 让你的网站更像一个 APP
-        link: https://theme-hope.vuejs.press/zh/guide/advanced/pwa.html
+      # - title: PWA 支持
+      #   icon: mobile-screen
+      #   details: 让你的网站更像一个 APP
+      #   link: https://theme-hope.vuejs.press/zh/guide/advanced/pwa.html
 
 copyright: false
 # footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">Hope</a> 主题 | MIT 协议, 版权所有 © 2024-present 希里安
