@@ -1,9 +1,9 @@
 ---
-title: 入门内容
+title: Features demo
 index: false
 icon: laptop-code
 category:
-  - 指南
+  - Guide
 ---
 
 <Catalog />
